@@ -5,10 +5,9 @@ using namespace std;
 
 int main()
 {
-    Punto p1,p2;//Instanciar y crear los objetos
+    Punto p1,p2;//CREAR OBJETOS
 
-    //Paso de mensajes
-
+    //MENSAJES
     p1.setX();
     p1.setY();
 
